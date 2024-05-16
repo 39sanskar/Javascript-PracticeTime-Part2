@@ -3,7 +3,7 @@
 
 // Create a function, logData(), that uses the person object to create a
 // string in the following format: 
-// "Per is 35 years old and lives in Norway"
+// "Per is 21 years old and lives in India"
 
 // Call the logData() function to verify that it works
 
@@ -13,6 +13,10 @@ let person = {
     country: "India"
 }
 
-function logData(){
-    console.log()
+function logData() {
+    console.log(person.name + " is " + person.age + " years old and lives in " + person.country)
 }
+
+logData()
+
+
