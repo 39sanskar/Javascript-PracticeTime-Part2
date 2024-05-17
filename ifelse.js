@@ -24,3 +24,6 @@ else if(age >= 27 && age <= 66){
 else{
     console.log("senior citizen discount")
 }
+
+
+// In this file we using if-else concept 

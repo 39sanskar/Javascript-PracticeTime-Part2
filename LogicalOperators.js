@@ -6,3 +6,6 @@ let weekday = "Friday"
 if (dayOfMonth === 13 && weekday === "Friday"){
    console.log("😱")
 }
+
+
+//This file we using logical operators
