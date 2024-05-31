@@ -1,6 +1,7 @@
 let age = 15
 
 // less than 6 years old -> free
+// less than 6 years old -> free.
 // 6 to 17 years old     -> child discount
 // 18 to 26 years old    -> student discount
 // 27 to 66 years old    -> full price
